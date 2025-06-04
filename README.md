@@ -1,7 +1,7 @@
 <!-- Company Logo -->
 <br>
 
-<h5 align="center"> Hi there 👋 </h5>
+<h7 align="center"> Welcome to the official GitHub page of SM AMERICA 👋 </h7>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/SM-America/SM-America/main/SM%20FINAL%20LOGO.jpg" alt="SM AMERICA LOGO" width="600"/>
