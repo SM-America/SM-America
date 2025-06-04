@@ -11,9 +11,16 @@ We are proud to present our new E-Commerce platform, built for performance, scal
 Explore how we combined technology and retail to provide a seamless online shopping experience.
 </p>
 
+<!-- 🟥 빈 줄 5줄 추가 -->
+<br><br><br><br><br>
+
+<!-- 🟥 움짤(GIF) 삽입 -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/SM-America/SM-America/main/WebsiteGtf-ezgif.com-video-to-gif-converter.gif" alt="SM AMERICA E-Commerce Demo" width="800"/>
 </p>
+
+<!-- 🟥 빈 줄 5줄 추가 -->
+<br><br><br><br><br>
 
 ---
 
