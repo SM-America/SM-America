@@ -13,34 +13,21 @@ Explore how we combined technology and retail to provide a seamless online shopp
 </p>
 
 <!-- 🛍️ Call-To-Action Message -->
-<br><br><br><br><br>
+<br><br><br><br>
 
-<p align="center">
-  <span style="font-size:28px; font-weight:bold; color:#C0392B;">
-    🛍️ Shop now on our official <a href="https://www.smamerica.com" target="_blank" style="color:#2980B9; text-decoration:none;">SM AMERICA website</a>!
-  </span>
-</p>
 
-<br><br><br><br><br>
+<br><br><br><br>
 
 <!-- 🎞️ Restored GIF Demo -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/SM-America/SM-America/main/WebsiteGtf-ezgif.com-video-to-gif-converter.gif" alt="SM AMERICA E-Commerce Demo" width="800"/>
 </p>
 
----
-
-### 🔧 Tech Stack
-
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-E6B91E?style=flat-square&logo=MySQL&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
+  <span style="font-size:28px; font-weight:bold; color:#C0392B;">
+    🛍️ Shop now on our official <a href="https://www.smamerica.com" target="_blank" style="color:#2980B9; text-decoration:none;">SM AMERICA website</a>!
+  </span>
 </p>
-
 ---
 
 ### 🌐 Visit Us
