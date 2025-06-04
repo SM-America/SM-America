@@ -29,6 +29,36 @@ Explore how we combined technology and retail to provide a seamless online shopp
 </p>
 
 ---
+
+### 🛠️ Our Product Offerings
+
+At **SM AMERICA**, we specialize in providing a comprehensive range of industrial Maintenance, Repair, and Operations (MRO) products to meet diverse industry needs. Our product categories include:
+
+- Actuators  
+- Directional Control Valves  
+- Airline Equipment  
+- Air Dryers & Main Line Filters  
+- Connectors  
+- Vacuum Products  
+- Industrial Communication Devices  
+- Sensors, Switches & Controllers  
+- Fluid Process Equipment  
+- Static Control Solutions  
+- Electric Actuators  
+- Chillers  
+- Process Gas Equipment  
+- High Vacuum Systems  
+- Chemical Handling Equipment  
+- Collaborative Robot (Cobot) Gripping Solutions  
+- Secondary Battery Components  
+- Bearings  
+- Tools  
+
+👉 Learn more on our official website: [https://www.smamerica.com/category](https://www.smamerica.com/category)
+
+
+
+---
 <br><br>
 
 ### 🌐 Visit Us
