@@ -13,20 +13,23 @@ Explore how we combined technology and retail to provide a seamless online shopp
 </p>
 
 <!-- 🛍️ Call-To-Action Message -->
-<br><br><br><br>
+<br><br>
 
 <!-- 🎞️ Restored GIF Demo -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/SM-America/SM-America/main/WebsiteGtf-ezgif.com-video-to-gif-converter.gif" alt="SM AMERICA E-Commerce Demo" width="800"/>
 </p>
+
 <br><br>
+
 <p align="center">
   <span style="font-size:28px; font-weight:bold; color:#C0392B;">
     🛍️ Shop now on our official <a href="https://www.smamerica.com" target="_blank" style="color:#2980B9; text-decoration:none;">SM AMERICA website</a>!
   </span>
 </p>
+
 ---
-<br><br><br><br>
+<br><br>
 
 ### 🌐 Visit Us
 
