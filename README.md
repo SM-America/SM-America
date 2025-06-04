@@ -1,4 +1,4 @@
-<!-- 🔝 Company Logo Banner -->
+<!-- Company Logo -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/SM-America/SM-America/main/SM%20FINAL%20LOGO.jpg" alt="SM AMERICA LOGO" width="600"/>
 </p>
@@ -12,15 +12,15 @@ We are proud to present our new E-Commerce platform, built for performance, scal
 Explore how we combined technology and retail to provide a seamless online shopping experience.
 </p>
 
-<!-- 🕳 Spacer before GIF -->
+<!-- 🛍️ Call-To-Action Message -->
 <br><br><br><br><br>
 
-<!-- 🎞 E-commerce Demo GIF -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SM-America/SM-America/main/WebsiteGtf-ezgif.com-video-to-gif-converter.gif" alt="SM AMERICA E-Commerce Demo" width="800"/>
+  <span style="font-size:28px; font-weight:bold; color:#C0392B;">
+    🛍️ Shop now on our official <a href="https://www.smamerica.com" target="_blank" style="color:#2980B9; text-decoration:none;">SM AMERICA website</a>!
+  </span>
 </p>
 
-<!-- 🕳 Spacer after GIF -->
 <br><br><br><br><br>
 
 ---
@@ -62,13 +62,4 @@ Explore how we combined technology and retail to provide a seamless online shopp
   <a href="https://hits.seeyoufarm.com">
     <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSM-America%2FSM-America&count_bg=%23ED6DA3&title_bg=%2386757E&icon=github.svg&icon_color=black&title=Visitors&edge_flat=false"/>
   </a>
-</p>
-
-<br><br>
-
-<!-- 🛍️ Call To Action (ENGLISH) -->
-<p align="center">
-  <span style="font-size:28px; font-weight:bold; color:#C0392B;">
-    🛍️ Shop now on our official <a href="https://www.smamerica.com" target="_blank" style="color:#2980B9; text-decoration:none;">SM AMERICA website</a>!
-  </span>
 </p>
