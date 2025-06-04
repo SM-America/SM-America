@@ -3,11 +3,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/SM-America/SM-America/main/SM%20FINAL%20LOGO.jpg" alt="SM AMERICA LOGO" width="600"/>
 </p>
-<p align="center">
-  <span style="font-size:28px; font-weight:bold; color:#C0392B;">
-    🛍️ Welcome to the official GitHub page of SM AMERICA <a href="https://www.smamerica.com" target="_blank" style="color:#2980B9; text-decoration:none;">SM AMERICA website</a>!
-  </span>
-</p>
+<h3 align="center">🛍️ Welcome to the official GitHub page of SM AMERICA</h3>
 <br><br>
 <h3 align="center">🛒 SM AMERICA E-COMMERCE PLATFORM 🛒</h3>
 
