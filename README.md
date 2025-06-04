@@ -1,5 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=SM%20AMERICA&fontSize=70&animation=twinkling)
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SM-America/SM-America/main/SM%20FINAL%20LOGO.jpg" alt="SM AMERICA LOGO" width="600"/>
+</p>
+
 <p align="center">Welcome to the official GitHub page of SM AMERICA</p>
 
 <h3 align="center">🛒 SM AMERICA E-COMMERCE PLATFORM 🛒</h3>
