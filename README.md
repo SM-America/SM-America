@@ -1,4 +1,5 @@
 <!-- Company Logo -->
+<br>
 
 <p align="center">
   <span style="font-size:30px; font-weight:bold; color:#2C3E50;">
