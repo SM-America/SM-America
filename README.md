@@ -20,7 +20,7 @@ Explore how we combined technology and retail to provide a seamless online shopp
   <img src="https://raw.githubusercontent.com/SM-America/SM-America/main/WebsiteGtf-ezgif.com-video-to-gif-converter.gif" alt="SM AMERICA E-Commerce Demo" width="800"/>
 </p>
 
-<br><br>
+<br>
 
 <p align="center">
   <span style="font-size:28px; font-weight:bold; color:#C0392B;">
