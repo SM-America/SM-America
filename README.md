@@ -11,6 +11,10 @@ We are proud to present our new E-Commerce platform, built for performance, scal
 Explore how we combined technology and retail to provide a seamless online shopping experience.
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SM-America/SM-America/main/WebsiteGtf-ezgif.com-video-to-gif-converter.gif" alt="SM AMERICA E-Commerce Demo" width="800"/>
+</p>
+
 ---
 
 ### 🔧 Tech Stack
@@ -43,6 +47,5 @@ Explore how we combined technology and retail to provide a seamless online shopp
 ---
 
 <p align="center">
- 
+  <!-- (방문자 수 배지 등 원하면 여기 추가) -->
 </p>
-
