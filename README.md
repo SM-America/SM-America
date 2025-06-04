@@ -1,11 +1,7 @@
 <!-- Company Logo -->
 <br>
 
-<p align="center">
-  <span style="font-size:30px; font-weight:bold; color:#2C3E50;">
-    Welcome to the official GitHub page of <span style="color:#C0392B;">SM AMERICA</span>
-  </span>
-</p>
+<h5 align="center"> Hi there 👋 </h5>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/SM-America/SM-America/main/SM%20FINAL%20LOGO.jpg" alt="SM AMERICA LOGO" width="600"/>
