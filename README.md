@@ -23,6 +23,11 @@ Explore how we combined technology and retail to provide a seamless online shopp
 
 <br><br><br><br><br>
 
+<!-- 🎞️ Restored GIF Demo -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SM-America/SM-America/main/WebsiteGtf-ezgif.com-video-to-gif-converter.gif" alt="SM AMERICA E-Commerce Demo" width="800"/>
+</p>
+
 ---
 
 ### 🔧 Tech Stack
